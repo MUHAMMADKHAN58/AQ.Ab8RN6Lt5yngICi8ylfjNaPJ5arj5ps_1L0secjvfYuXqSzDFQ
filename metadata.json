@@ -1,0 +1,6 @@
+{
+  "name": "KaamWala",
+  "description": "Pan-Pakistan on-demand trades platform connecting users with verified Electricians, Plumbers, and AC Technicians with real-time GPS.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
